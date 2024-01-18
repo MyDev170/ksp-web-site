@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@500&display=swap');
+
+h1{
+    font-family: 'Tektur', sans-serif;
+    font-size: 200px;
+    letter-spacing: 50px;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: url(image/HD-Space-Wallpaper-For-Background-7.jpg) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+    
+    letter-spacing: 10px;
+    color: rgb(255, 255, 255);
+}
+
+a{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+    
+    letter-spacing: 5px;
+    color: rgb(255, 255, 255);
+}
+
+#TLSCP{
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+    font-size: 30px;
+    letter-spacing: 10px;
+    color: rgb(255, 255, 255);
+}
